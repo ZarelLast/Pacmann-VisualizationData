@@ -142,3 +142,5 @@ Tableau: [Link Dashboard](https://public.tableau.com/app/profile/muhammad.ilham.
 Youtube: [Link Youtube](https://youtu.be/uyMpi_YQiH4)
 
 Linkedin: [M Ilham Triwobowo](https://www.linkedin.com/in/m-ilham-tri/) & [Fahmi Hidayah](https://www.linkedin.com/in/fahmi-hidayah-84a0a4262/) 
+
+Google Colab: [Link Colab](https://colab.research.google.com/drive/1da1UWF7mLCI4gvOCohzykjswP4pFBvOj?usp=sharing)
