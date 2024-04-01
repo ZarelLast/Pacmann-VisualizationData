@@ -71,7 +71,7 @@ Kemudian, berdasarkan lima kategori pekerjaan dan tingkat pengalaman, dilakukan 
 
 3. Memperoleh pemahaman tentang tingkat pengalaman yang umumnya dibutuhkan dalam bidang yang paling diminati.
 
-![Distribusi Tingkat Pengalaman berdasarkan Top 5 Kategori Pekerjaan](image/img3.PNG)
+![Distribusi Tingkat Pengalaman berdasarkan Top 5 Kategori Pekerjaan](image/img3.png)
 
 Selanjutnya, berdasarkan lima kategori pekerjaan tersebut, dilakukan analisis terhadap distribusi tingkat pengalaman. Hasilnya menunjukkan bahwa tingkat pengalaman 'Senior' memiliki distribusi tertinggi, sekitar 54%, diikuti oleh 'Mid-level', dan distribusi terendah terdapat pada posisi 'Executive', sekitar 4%.
 
