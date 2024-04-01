@@ -8,9 +8,6 @@ Original file is located at
 
 # Latar Belakang
 
-ingin menaikan engagement\
-karena data science menaikan engagement
-
 Sebuah badan riset kerja membutuhkan data tentang  pekerjaan yang dibutuhkan oleh perusahaan dibidang data.Kemudian tim analis data melakukan penelitian menyeluruh terkait sejumlah variabel, termasuk struktur gaji, lingkungan kerja, skala perusahaan, jenis pekerjaan, tingkat pengalaman, lokasi tempat tinggal karyawan, dan kategori pekerjaan.
 
 # Objektif
@@ -24,26 +21,6 @@ Sebuah badan riset kerja membutuhkan data tentang  pekerjaan yang dibutuhkan ole
 # Goal
 
 Tujuan utamanya yaitu untuk memberikan rekomendasi kepada manajemen perusahaan dalam yang ingin merekrut ataupun membuat divisi yang berfokus pada data, dengan mempertimbangkan berbagai aspek pasar kerja dan kebutuhan organisasi.
-
-github
--python
--link medium
--link yt
--readme
-medium
--berdasarkan objektif
--saran/rekomendasi
-youtube
-
-judul
-latar belakang
-objektif
-tujuan analis / goals
-dataset
-analisis
-konklusi
-
-easy report : judul, latar belakang, objective, goals/tujuan, dataset, analisis, conclution, rekomendasi
 
 # Dataset
 """
