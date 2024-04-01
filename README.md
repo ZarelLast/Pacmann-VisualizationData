@@ -54,17 +54,17 @@ company_size: Ukuran perusahaan tempat karyawan bekerja, sering kali dikategorik
 
 1. Mengidentifikasi jenis pekerjaan yang paling diminati di industri data.
 
-![Top 5 Kategori Pekerjaan dibidang Data 2024](image/img1.PNG)
+![Top 5 Kategori Pekerjaan dibidang Data 2024](image/img1.png)
 
 Analisis tersebut menampilkan lima kategori pekerjaan teratas dalam industri data dari berbagai kategori yang ada. Dari visualisasi data yang disajikan, dapat disimpulkan bahwa 'Data Science and Research' menduduki peringkat tertinggi dengan jumlah pekerja mencapai 894, disusul oleh 'Data Engineering' dengan 487 pekerja, dan 'Machine Learning and AI' dengan 441 pekerja. Walaupun hanya mempertimbangkan lima kategori pekerjaan utama, terdapat perbedaan yang cukup signifikan dalam jumlah pekerjaan antara yang tertinggi 'Data Science and Research' dan yang terendah 'Leadership and Management'. 
 
 2. Menganalisis tren struktur gaji dalam industri data berdasarkan standar kompensasi (median).
 
-![Matriks Korelasi menggunakan metode Spearman](image/img2.PNG)
+![Matriks Korelasi menggunakan metode Spearman](image/img2.png)
 
 Dari lima kategori teratas yang telah diidentifikasi sebelumnya, dilakukan analisis rata-rata gaji berdasarkan tingkat pengalaman. Tingkat pengalaman dipilih sebagai variabel acuan karena analisis data menggunakan matriks korelasi dengan metode spearman menunjukkan bahwa tingkat pengalaman memiliki hubungan yang paling tinggi dengan gaji, meskipun dengan nilai 0,41 yang masih termasuk dalam kategori hubungan rendah.
 
-![Gaji (Median) berdasarkan Top 5 Kategori Pekerjaan](image/img3.PNG)
+![Gaji (Median) berdasarkan Top 5 Kategori Pekerjaan](image/img3.png)
 
 Kemudian, berdasarkan lima kategori pekerjaan dan tingkat pengalaman, dilakukan analisis terhadap rata-rata gaji pada tahun 2024 menggunakan median. Ditemukan bahwa dari lima kategori pekerjaan tersebut, kategori 'Machine Learning and AI' menunjukkan rata-rata gaji tertinggi pada posisi 'Executive' sebesar $228,500 dan rata-rata gaji terendah pada posisi 'Entry-level' sebesar $125,000. Sementara itu, pada kategori 'Data Science and Research', rata-rata gaji tertinggi juga terdapat pada posisi 'Executive' sebesar $190,250 dan rata-rata gaji terendah pada posisi 'Entry-level' sebesar $90,000. Namun, kategori 'Data Analysis' menunjukkan rata-rata gaji terendah, dengan rata-rata gaji tertinggi pada posisi 'Senior' sebesar $122,500 dan rata-rata gaji terendah pada posisi 'Entry-level' sebesar $84,553. Meskipun 'Data Science and Research' menduduki peringkat pertama dalam jumlah pekerja, namun dari segi rata-rata gaji, kategori 'Machine Learning and AI' menempati posisi pertama.
 
