@@ -26,28 +26,29 @@ Tujuan utama dari analisis ini adalah memberikan rekomendasi kepada manajemen pe
 ## Dataset
 Dataset ini menyajikan informasi terbaru untuk tahun 2024 yang berkaitan dengan Pekerjaan dan Gaji dalam bidang Ilmu Data. Data ini berasal dari sumber terpercaya, yaitu Kaggle, dan dapat diakses melalui tautan berikut: Jobs and Salaries in Data Field 2024. Dataset ini terdiri dari 12 kolom dan mencakup 14200 baris data, dengan setiap kolom memiliki informasi berikut:
 
-work_year: Tahun ketika data tersebut dicatat. Aspek ini mengindikasikan konteks waktu dari data, yang sangat penting untuk memahami pola tren gaji dari waktu ke waktu.
+`work_year`: Tahun ketika data tersebut dicatat. Aspek ini mengindikasikan konteks waktu dari data, yang sangat penting untuk memahami pola tren gaji dari waktu ke waktu.
 
-job_title: Judul yang spesifik dari pekerjaan, seperti 'Data Scientist', 'Data Engineer', atau 'Data Analyst'. Informasi ini menjadi kunci untuk memahami sebaran gaji pada berbagai peran khusus dalam bidang data..
+`job_title`: Judul yang spesifik dari pekerjaan, seperti 'Data Scientist', 'Data Engineer', atau 'Data Analyst'. Informasi ini menjadi kunci untuk memahami sebaran gaji pada berbagai peran khusus dalam bidang data..
 
-job_category: Mengelompokkan peran pekerjaan ke dalam kategori yang lebih umum untuk memudahkan analisis. Ini bisa meliputi bidang seperti 'Data Analysis', 'Machine Learning', 'Data Engineering', dll.
+`job_category`: Mengelompokkan peran pekerjaan ke dalam kategori yang lebih umum untuk memudahkan analisis. Ini bisa meliputi bidang seperti 'Data Analysis', 'Machine Learning', 'Data Engineering', dll.
 
-salary_currency: Mata uang dalam pembayaran gaji, misalnya USD, EUR, dan sebagainya. Informasi ini krusial untuk konversi mata uang dan pemahaman nilai gaji yang sebenarnya dalam konteks global.
+`salary_currency`: Mata uang dalam pembayaran gaji, misalnya USD, EUR, dan sebagainya. Informasi ini krusial untuk konversi mata uang dan pemahaman nilai gaji yang sebenarnya dalam konteks global.
 
-salary: Gaji kotor tahunan dari peran tersebut dalam mata uang lokal. Angka gaji mentah ini penting untuk perbandingan gaji regional langsung.
+`salary`: Gaji kotor tahunan dari peran tersebut dalam mata uang lokal. Angka gaji mentah ini penting untuk perbandingan gaji regional langsung.
 
-salary_in_usd: Pendapatan tahunan yang telah dikonversi menjadi Dolar Amerika Serikat (USD). Konversi mata uang yang seragam ini membantu dalam perbandingan dan analisis gaji secara global.
+`salary_in_usd`: Pendapatan tahunan yang telah dikonversi menjadi Dolar Amerika Serikat (USD). Konversi mata uang yang seragam ini membantu dalam perbandingan dan analisis gaji secara global.
 
-employee_residence: Negara tempat tinggal karyawan tersebut. Data ini dapat digunakan untuk mengeksplorasi perbedaan gaji geografis dan variasi biaya hidup.
+`employee_residence`: Negara tempat tinggal karyawan tersebut. Data ini dapat digunakan untuk mengeksplorasi perbedaan gaji geografis dan variasi biaya hidup.
 
-experience_level: Klasifikasi tingkat pengalaman profesional karyawan. Kategori umumnya mungkin termasuk 'Entry-level', 'Mid-level', 'Senior', dan 'Executive', memberikan wawasan tentang bagaimana pengalaman mempengaruhi gaji dalam peran terkait data.
+`experience_level`: Klasifikasi tingkat pengalaman profesional karyawan. Kategori umumnya mungkin termasuk 'Entry-level', 'Mid-level', 'Senior', dan 'Executive', memberikan wawasan tentang bagaimana pengalaman mempengaruhi gaji dalam peran terkait data.
 
-employment_type: Menentukan jenis pekerjaan, seperti 'Full-time', 'Part-time', 'Contract', dan lainnya. Informasi ini membantu dalam menganalisis bagaimana pengaturan pekerjaan yang berbeda mempengaruhi struktur gaji.
-work_setting: Pengaturan atau lingkungan kerja, seperti 'Remote', 'In-person', or 'Hybrid'. Kolom ini mencerminkan dampak pengaturan kerja terhadap tingkat gaji dalam industri data.
+`employment_type`: Menentukan jenis pekerjaan, seperti 'Full-time', 'Part-time', 'Contract', dan lainnya. Informasi ini membantu dalam menganalisis bagaimana pengaturan pekerjaan yang berbeda mempengaruhi struktur gaji.
 
-company_location: Negara tempat perusahaan tersebut berlokasi. Data ini membantu dalam menganalisis bagaimana lokasi perusahaan mempengaruhi struktur gaji.
+`work_setting`: Pengaturan atau lingkungan kerja, seperti 'Remote', 'In-person', or 'Hybrid'. Kolom ini mencerminkan dampak pengaturan kerja terhadap tingkat gaji dalam industri data.
 
-company_size: Ukuran perusahaan tempat karyawan bekerja, sering kali dikategorikan menjadi small (S), medium (M), dan large (L). Ini memungkinkan untuk analisis bagaimana ukuran perusahaan mempengaruhi gaji.
+`company_location`: Negara tempat perusahaan tersebut berlokasi. Data ini membantu dalam menganalisis bagaimana lokasi perusahaan mempengaruhi struktur gaji.
+
+`company_size`: Ukuran perusahaan tempat karyawan bekerja, sering kali dikategorikan menjadi small (S), medium (M), dan large (L). Ini memungkinkan untuk analisis bagaimana ukuran perusahaan mempengaruhi gaji.
 
 
 ## Analisis / analysis
