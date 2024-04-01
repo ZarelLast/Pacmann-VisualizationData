@@ -115,6 +115,8 @@ Artikel ini dibuat sebagai bagian dari upaya untuk menyelesaikan Projek Pacmann 
 
 Link:
 
+Dataset: [Link Kaggle](https://www.kaggle.com/datasets/murilozangari/jobs-and-salaries-in-data-field-2024)
+
 Github: [Link Github](https://github.com/ZarelLast/Pacmann-VisualizationData)
 
 Medium: [Link Medium](https://medium.com/@triwibowoilham2/analisis-pasar-kerja-dalam-industri-data-pandangan-mendalam-untuk-rekrutmen-dan-pengembangan-531bd4779477)
