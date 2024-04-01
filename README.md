@@ -3,6 +3,7 @@
 
 [![Yt](https://img.youtube.com/vi/uyMpi_YQiH4/0.jpg)](https://www.youtube.com/watch?v=uyMpi_YQiH4)
 
+![Analisis Pasar Kerja dalam Industri Data: Pandangan Mendalam untuk Rekrutmen dan Pengembangan Organisasi](image/img0.PNG)
 
 ## Latar Belakang / Problems
 Sebuah badan riset kerja memiliki kebutuhan data terkait pekerjaan yang sangat dibutuhkan oleh perusahaan-perusahaan di bidang data. Dalam konteks ini, tim analis data melakukan penelitian menyeluruh yang mencakup sejumlah variabel krusial seperti struktur gaji, lingkungan kerja, skala perusahaan, jenis pekerjaan, tingkat pengalaman, lokasi tempat tinggal karyawan, dan kategori pekerjaan.
@@ -53,25 +54,39 @@ company_size: Ukuran perusahaan tempat karyawan bekerja, sering kali dikategorik
 
 1. Mengidentifikasi jenis pekerjaan yang paling diminati di industri data.
 
+![Top 5 Kategori Pekerjaan dibidang Data 2024](image/img1.PNG)
+
 Analisis tersebut menampilkan lima kategori pekerjaan teratas dalam industri data dari berbagai kategori yang ada. Dari visualisasi data yang disajikan, dapat disimpulkan bahwa 'Data Science and Research' menduduki peringkat tertinggi dengan jumlah pekerja mencapai 894, disusul oleh 'Data Engineering' dengan 487 pekerja, dan 'Machine Learning and AI' dengan 441 pekerja. Walaupun hanya mempertimbangkan lima kategori pekerjaan utama, terdapat perbedaan yang cukup signifikan dalam jumlah pekerjaan antara yang tertinggi 'Data Science and Research' dan yang terendah 'Leadership and Management'. 
 
 2. Menganalisis tren struktur gaji dalam industri data berdasarkan standar kompensasi (median).
 
+![Matriks Korelasi menggunakan metode Spearman](image/img2.PNG)
+
 Dari lima kategori teratas yang telah diidentifikasi sebelumnya, dilakukan analisis rata-rata gaji berdasarkan tingkat pengalaman. Tingkat pengalaman dipilih sebagai variabel acuan karena analisis data menggunakan matriks korelasi dengan metode spearman menunjukkan bahwa tingkat pengalaman memiliki hubungan yang paling tinggi dengan gaji, meskipun dengan nilai 0,41 yang masih termasuk dalam kategori hubungan rendah.
+
+![Gaji (Median) berdasarkan Top 5 Kategori Pekerjaan](image/img3.PNG)
 
 Kemudian, berdasarkan lima kategori pekerjaan dan tingkat pengalaman, dilakukan analisis terhadap rata-rata gaji pada tahun 2024 menggunakan median. Ditemukan bahwa dari lima kategori pekerjaan tersebut, kategori 'Machine Learning and AI' menunjukkan rata-rata gaji tertinggi pada posisi 'Executive' sebesar $228,500 dan rata-rata gaji terendah pada posisi 'Entry-level' sebesar $125,000. Sementara itu, pada kategori 'Data Science and Research', rata-rata gaji tertinggi juga terdapat pada posisi 'Executive' sebesar $190,250 dan rata-rata gaji terendah pada posisi 'Entry-level' sebesar $90,000. Namun, kategori 'Data Analysis' menunjukkan rata-rata gaji terendah, dengan rata-rata gaji tertinggi pada posisi 'Senior' sebesar $122,500 dan rata-rata gaji terendah pada posisi 'Entry-level' sebesar $84,553. Meskipun 'Data Science and Research' menduduki peringkat pertama dalam jumlah pekerja, namun dari segi rata-rata gaji, kategori 'Machine Learning and AI' menempati posisi pertama.
 
 3. Memperoleh pemahaman tentang tingkat pengalaman yang umumnya dibutuhkan dalam bidang yang paling diminati.
 
+![Distribusi Tingkat Pengalaman berdasarkan Top 5 Kategori Pekerjaan](image/img4.PNG)
+
 Selanjutnya, berdasarkan lima kategori pekerjaan tersebut, dilakukan analisis terhadap distribusi tingkat pengalaman. Hasilnya menunjukkan bahwa tingkat pengalaman 'Senior' memiliki distribusi tertinggi, sekitar 54%, diikuti oleh 'Mid-level', dan distribusi terendah terdapat pada posisi 'Executive', sekitar 4%.
 
 4. Mengevaluasi lokasi tempat tinggal karyawan yang paling sesuai dengan kebutuhan operasional.
 
+![Peta Persebaran Karyawan berdasarkan Top 5 Kategori Pekerjaan](image/img5.PNG)
+
 Untuk mengevaluasi lokasi tempat tinggal karyawan, dilakukan analisis persebaran menggunakan peta. Hasil analisis menunjukkan bahwa persebarannya cukup luas, dengan banyak karyawan tersebar di berbagai wilayah.
+
+![Negara Persebaran Karyawan berdasarkan Top 5 Kategori Pekerjaan](image/img6.PNG)
 
 Karena persebarannya cukup luas, dilakukan analisis untuk mencari lima negara teratas. Dari hasil analisis, ditemukan bahwa Amerika Serikat menduduki peringkat pertama dengan total 2,375 pekerja dan disusul oleh Canada dengan total 119 pekerja. Meskipun menggunakan lima negara teratas, namun hasil visualisasi masih menunjukkan ketidakseimbangan dalam persebarannya dan cukup bias.
 
 5. Menganalisis tentang skala perusahaan berdasarkan kategori pekerjaan.
+
+![Matriks Korelasi menggunakan metode Spearman](image/img2.PNG)
 
 Kemudian dilakukan analisis terhadap skala perusahaan berdasarkan lima kategori pekerjaan teratas. Hasil visualisasi menunjukkan distribusi yang tidak merata, di mana perusahaan skala 'medium' mendominasi sebesar 91% dari total pekerjaan. Sementara itu, perusahaan skala 'small' hanya menyumbang sebesar 2%, yang merupakan jumlah terendah dalam distribusi tersebut.
 
