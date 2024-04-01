@@ -10,13 +10,11 @@ Original file is located at
 
 Sebuah badan riset kerja membutuhkan data tentang  pekerjaan yang dibutuhkan oleh perusahaan dibidang data.Kemudian tim analis data melakukan penelitian menyeluruh terkait sejumlah variabel, termasuk struktur gaji, lingkungan kerja, skala perusahaan, jenis pekerjaan, tingkat pengalaman, lokasi tempat tinggal karyawan, dan kategori pekerjaan.
 
-# Objektif
-
 1.   Mengidentifikasi jenis pekerjaan yang paling diminati dalam industri data.
 2.   Menganalisis tren struktur gaji dalam industri data berdasaskan standar kompensasi(median).
 3.   Memperoleh pemahaman tentang tingkat pengalaman yang umumnya dibutuhkan dalam bidang yg paling diminati.
 4.   Mengevaluasi lokasi tempat tinggal karyawan yang paling sesuai dengan kebutuhan operasional.
-5.   Menyusun laporan analisis tentang pasar kerja dalam tren pada tahun 2024, serta skala perusahaan dan kategori pekerjaan.
+5.   Menganalisis tentang skala perusahaan berdasarkan kategori pekerjaan.
 
 # Goal
 
